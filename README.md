@@ -23,7 +23,7 @@ Projeto desenvolvido para a matéria de PIT da Faculdade Cruzeiro do Sul.
 ## 🔧 Como executar o projeto
 ```bash
 # Clone o repositório
-git clone https://github.com/devMagno/dev.finances
+https://github.com/djovas/minhas_financas.git
 
 # Entre no diretório
 cd dev.finances
