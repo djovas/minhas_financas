@@ -1,5 +1,5 @@
 # Minhas Finanças
-<p></p>
+
 ## 📖 Sobre
 Projeto desenvolvido para a matéria de PIT da Faculdade Cruzeiro do Sul.
 
